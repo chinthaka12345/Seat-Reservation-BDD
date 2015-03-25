@@ -1,4 +1,4 @@
-# Seat-Reservation
+# Seat-Reservation-BDD
 Seat reservation for restaurant. Very simple logic at the moment. In the future hope to modify. 
 
 Compile: 
@@ -6,3 +6,6 @@ javac -classpath . UserInterface.java
 
 Run:
 java -classpath . UserInterface
+
+Maven:
+mvn test
